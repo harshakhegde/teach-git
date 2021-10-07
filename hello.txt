@@ -1,0 +1,4 @@
+comstructor
+object 
+class
+function
